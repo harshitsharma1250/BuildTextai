@@ -45,4 +45,6 @@ DATABASE_URL=your-database-url
 npx prisma migrate dev  
 
 npm run dev  
+https://youtu.be/_ep_UXtf5qU?si=i2Fy8hFUEsMWT5L4
+
 
