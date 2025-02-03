@@ -76,11 +76,11 @@ import {
     },
     {
       name: "Instagram Hashtags",
-      desc: "An AI tool that generate Instagram captions based on your post niche and outline information",
+      desc: "An AI tool that generate Instagram hashtags based on your post niche and outline information",
       category: "Instagram",
       icon: FaInstagram,
       aiPrompt:
-        "Give me some good examples of instagram captions on given niche & outline topic and give me result in Rich Text Editor format",
+        "Give me some good examples of instagram hashtags on given niche & outline topic and give me result in Rich Text Editor format",
       slug: "generate-instagram-hashtags",
       form: [
         {
@@ -102,7 +102,7 @@ import {
       category: "Tiktok",
       icon: FaTiktok,
       aiPrompt:
-        "Give me some good examples of instagram hashtags on given niche & outline topic and give me result in Rich Text Editor format",
+        "Give me some good examples of tiktok hashtags on given niche & outline topic and give me result in Rich Text Editor format",
       slug: "generate-tiktok-hashtags",
       form: [
         {
@@ -142,11 +142,11 @@ import {
     },
     {
       name: "Tweet",
-      desc: "An AI tool that generate Linkedin Post idea based on your post niche and outline information",
+      desc: "An AI tool that generate Twitter Tweet idea based on your post niche and outline information",
       category: "Tweet",
       icon: FaTwitter,
       aiPrompt:
-        "Give me 280 characters of tweet example on given niche & outline topic",
+        "Give me four, 280 characters of tweet example on given niche & outline topic",
       slug: "generate-tweet-post",
       form: [
         {

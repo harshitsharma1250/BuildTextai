@@ -1,7 +1,6 @@
-require('dotenv').config();
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const apiKey = `AIzaSyDIhwFgGbwhEmrJn84G_cwSSDZStcxCvdg`;
+const apiKey = `AIzaSyAZbI4or-TepWhY6heQXEt48H7suIQ6_Ts`;
 
 if (!apiKey) {
     throw new Error("API Key is undefined. Please check your .env file.");
